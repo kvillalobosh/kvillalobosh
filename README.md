@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, my name is Karina (kah-REE-nah), but most people call me Rina (ree-nah)! 👋
 
-<!--
-**kvillalobosh/kvillalobosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ FIU | ML + Automotive Tech + Car Enthusiast**
 
-Here are some ideas to get you started:
+I'm a CS junior passionate about **machine learning** and **autonomous vehicles**. I drive a Toyota GR86, build web apps, and I'm currently exploring how AI can improve transportation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On:
+- Finishing **Scrimba's Full-Stack Developer Path**
+- Working through **NeetCode** for DSA practice
+- Planning a **GR86 community app** (soon!)
+- Learning **ML/data science** 
+- Preparing for **Amazon SDE internship** (Summer 2026)
+
+I thrive in collaborative spaces and I love helping others. Always down to talk about **tech, cars, or simply just life!**
+
+✨[LinkedIn](https://www.linkedin.com/in/kvillalobosh/) ✨
