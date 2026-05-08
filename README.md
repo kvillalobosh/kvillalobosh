@@ -2,7 +2,7 @@
 
 **CS @ FIU | ML + Automotive Tech + Car Enthusiast**
 
-I'm a CS sophomore passionate about **machine learning** and **autonomous vehicles**. I'm also currently exploring how AI can improve transportation.
+I'm a second year honors student studying CS at Florida International University. I am passionate about **machine learning** and I am currently exploring how AI can improve transportation.
 
 ## What I'm Working On:
 - Finishing **Scrimba's Full-Stack Developer Path**
