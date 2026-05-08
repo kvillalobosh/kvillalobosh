@@ -2,7 +2,7 @@
 
 **CS @ FIU | ML + Automotive Tech + Car Enthusiast**
 
-I'm a CS junior passionate about **machine learning** and **autonomous vehicles**. I drive a Toyota GR86, build web apps, and I'm currently exploring how AI can improve transportation.
+I'm a CS sophomore passionate about **machine learning** and **autonomous vehicles**. I'm also currently exploring how AI can improve transportation.
 
 ## What I'm Working On:
 - Finishing **Scrimba's Full-Stack Developer Path**
