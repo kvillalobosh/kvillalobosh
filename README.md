@@ -1,6 +1,6 @@
 ## Hi, my name is Karina (kah-REE-nah), but most people call me Rina (ree-nah)! 👋
 
-**CS @ FIU | ML
+**CS @ FIU | ML**
 
 I'm a second year honors student studying CS at Florida International University. I am passionate about **machine learning** and I am currently exploring how AI can improve transportation.
 
